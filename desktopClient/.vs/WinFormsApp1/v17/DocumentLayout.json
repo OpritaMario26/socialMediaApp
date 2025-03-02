@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15B01C-F655-433F-A08A-48F023835A2C}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF15B01C-F655-433F-A08A-48F023835A2C}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15B01C-F655-433F-A08A-48F023835A2C}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\winformsapp1\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15B01C-F655-433F-A08A-48F023835A2C}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15B01C-F655-433F-A08A-48F023835A2C}|WinFormsApp1\\WinFormsApp1.csproj|c:\\facultate\\facultate an 4 sem 1\\scd\\proiect\\scdproiect2-main\\desktopclient\\winformsapp1\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15B01C-F655-433F-A08A-48F023835A2C}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\WinFormsApp1\\EmailService.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\EmailService.cs",
+              "ToolTip": "C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\WinFormsApp1\\EmailService.cs",
+              "RelativeToolTip": "WinFormsApp1\\EmailService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:55:18.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\WinFormsApp1\\Post.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Post.cs",
+              "ToolTip": "C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\WinFormsApp1\\Post.cs",
+              "RelativeToolTip": "WinFormsApp1\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:15:36.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Facultate\\Facultate An 4 Sem 1\\SCD\\Proiect\\SCDproiect2-main\\desktopClient\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:14:20.088Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
